@@ -93,8 +93,8 @@ The dashboard combines a **Sales Overview page** for macro-level analysis and a 
 | Rank | Salesperson | Revenue | Achievement |
 |---|---|---|---|
 | 🥇 1 | Carla Ferreira | $4,707,403 | 110% |
-| 🥈 2 | Julio Lima | 3,301,482 | 122% |
-| 🥉 3 | Gustavo Gomes | 2,447,136 | 108% |
+| 🥈 2 | Julio Lima | $3,301,482 | 122% |
+| 🥉 3 | Gustavo Gomes | $2,447,136 | 108% |
 | 4 | Felipe Goncalves | $1,676,337 | 74% |
 | 5 | Leonardo Cardoso | $1,607,712 | 94% |
 | 6 | Isabella Sousa | $870,302 | 79% |
